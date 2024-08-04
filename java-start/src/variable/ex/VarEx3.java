@@ -8,4 +8,3 @@ public class VarEx3 {
         System.out.println("b = " + b);
     }
 }
- 
